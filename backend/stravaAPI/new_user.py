@@ -16,8 +16,8 @@ def completeAuth(instance, ):
     auth_url = "https://www.strava.com/oauth/token"
 
     payload = {
-        'client_id': "94320",
-        'client_secret':'51aada534225e79296929448568dbde57f0783ef',
+        'client_id': "",
+        'client_secret':'',
         'code': instance,
         'grant_type': 'authorization_code',
     }
