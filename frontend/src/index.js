@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, createBrowserRouter, RouterProvider, Link
 import Home from "./pages/Home";
 import Stats from "./pages/Stats";
 import './App.css';
-import App from "./App"
+//import App from "./App"
 import Redirect from "./pages/Redirect"
 import Root from "./components/Root"
 
